@@ -1,0 +1,27 @@
+.heading-white {
+  color: #FFFDF6;
+  position:relative;
+  top:50%;
+}
+
+.subheading-white{
+  color: #FFFDF6;
+  position:relative;
+  top:40%;
+}
+
+.reem-kufi-font{
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+.merriweather-font{
+  font-family: 'Merriweather', serif;
+}
+.mybackground {
+  background-color: #1C1C1B !important;
+}
+
+.my-jumbo {
+  height:450px;
+  border-radius: 0px !important;
+}
